@@ -19,6 +19,13 @@ h1 {
     color: #38bdf8;
 }
 
+h4 {
+    margin: 0;
+    font-size: 2.4rem;
+    color: #38bdf8;
+}
+
+
 .subtitle {
     margin-top: 8px;
     font-size: 1.05rem;
